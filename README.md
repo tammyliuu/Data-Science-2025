@@ -1,4 +1,3 @@
-# Data-Science-2025
 # Fraud Detection with Imbalanced Class Data
 
 This project tackles the problem of fraud detection using machine learning techniques to handle imbalanced data. The dataset used contains transaction details, where the target variable (`Class`) indicates whether a transaction is fraudulent (1) or non-fraudulent (0). The project applies various sampling techniques to balance the dataset and compares the performance of different models.
